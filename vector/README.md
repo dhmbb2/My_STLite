@@ -1,5 +1,2 @@
 ## vector
-
----
-
 Dynamic contiguous array.
